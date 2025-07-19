@@ -1,23 +1,15 @@
-# Python cache
-__pycache__/
-*.pyc
 
-# Virtual env
-.venv/
-venv/
-
-# Secrets
 .env
 .env.*
 
-# IDE/editor
+
+__pycache__/
+*.pyc
+
+
+.venv/
+venv/
+
+
 .vscode/
 .idea/
-
-# Local cache, logs, artefacts
-logs/
-artefacts/
-data/
-
-# Egg build
-*.egg-info/
