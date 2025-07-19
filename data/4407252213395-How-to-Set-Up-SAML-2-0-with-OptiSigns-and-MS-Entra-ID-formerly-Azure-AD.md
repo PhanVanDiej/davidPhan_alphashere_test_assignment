@@ -258,7 +258,7 @@ Next, head back to your Azure portal, and go to **SAML-based Sign-on**. Once the
 
 ![](https://support.optisigns.com/hc/article_attachments/38838224681235)
 
-This will allow the OptiSigns app to appear in your Microsoft Office portal.
+This will allow the OptiSigns app to appear in your Microsoft Office portal. This will also provide the full range of options for your side menu.
 
 ![optisigns app in ms office portal](https://support.optisigns.com/hc/article_attachments/37186635219219)
 
