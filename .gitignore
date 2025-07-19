@@ -1,10 +1,12 @@
-# Python
+# Python cache
 __pycache__/
 *.pyc
+
+# Virtual env
 .venv/
 venv/
 
-# Env
+# Secrets
 .env
 .env.*
 
@@ -12,12 +14,10 @@ venv/
 .vscode/
 .idea/
 
-# Cache/logs/artifacts
+# Local cache, logs, artefacts
 logs/
 artefacts/
 data/
-*.log
-*.md
 
-# Docker build
+# Egg build
 *.egg-info/
