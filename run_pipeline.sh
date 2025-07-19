@@ -1,7 +1,6 @@
 #!/bin/bash
 
-# Đường dẫn tới thư mục project (thay nếu cần)
-PROJECT_DIR="/home/your-user/davidPhan_alphashere_test_assignment"
+PROJECT_DIR="/root/davidPhan_alphashere_test_assignment"
 
 cd "$PROJECT_DIR"
 
