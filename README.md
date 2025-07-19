@@ -55,8 +55,9 @@ docker run --rm --env-file .env optibot
 This command runs daily via `crontab` on a DigitalOcean droplet, cus you cannot access the **Ubuntu server (Droplet)**, 
 I just write the command here:
 ```bash
-@daily bash Run\ Pipeline
+@daily bash run_pipeline.sh
 ```
+It will be scheduled to run at 7:00 am every morning
 Logs and artefacts are saved and included in repo for review:
 - `logs/cron-YYYY-MM-DD.log`
 - `artefacts/diff_summary.json`
