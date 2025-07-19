@@ -1,6 +1,23 @@
-.env
+# Python
 __pycache__/
 *.pyc
-*.log
-data/
+.venv/
+venv/
+
+# Env
+.env
+.env.*
+
+# IDE/editor
+.vscode/
+.idea/
+
+# Cache/logs/artifacts
 logs/
+artefacts/
+data/
+*.log
+*.md
+
+# Docker build
+*.egg-info/
